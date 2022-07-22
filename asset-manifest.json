@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/monsters/static/css/main.e5bba265.css",
+    "main.js": "/monsters/static/js/main.e7376a0b.js",
+    "index.html": "/monsters/index.html",
+    "main.e5bba265.css.map": "/monsters/static/css/main.e5bba265.css.map",
+    "main.e7376a0b.js.map": "/monsters/static/js/main.e7376a0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5bba265.css",
+    "static/js/main.e7376a0b.js"
+  ]
+}
